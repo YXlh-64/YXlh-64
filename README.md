@@ -45,14 +45,13 @@ Triton · CUDA (basics) · Celery · Redis · Firebase · Jupyter · NumPy · Pa
 ```
 
 ---
-
 ## 📌 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [Wind-Robust RL for Drone Delivery](https://github.com/YXlh-64) | PPO agent achieving 90–95% success under stochastic wind disturbance; OU-process wind model + curriculum training | PyTorch, PyBullet, SB3 |
-| [Physics-Aware Transformer for PDEs](https://github.com/YXlh-64) | Hybrid FNO + Transformer with physics-informed constraints for stable autoregressive PDE solving under OOD conditions | PyTorch |
-| [Neural Network Compression Eval System](https://github.com/YXlh-64) | Secure, distributed Discord bot for AI datathon: sandboxed Docker execution, async Celery + Redis pipeline | Docker, Redis, Flask |
+| [Autonomous Drone Delivery via Reinforcement Learning](https://github.com/YXlh-64) | Curriculum-driven PPO framework for autonomous multi-client drone delivery under wind disturbances, obstacle avoidance, and energy constraints, achieving a 96% success rate in PyBullet | PyTorch, Stable-Baselines3, PyBullet |
+| [Human-in-the-Loop Arabic Machine Translation](https://github.com/YXlh-64) | Domain-aware Arabic MT framework integrating LLMs, RAG, and RLHF to improve translation quality, terminology consistency, and reduce hallucinations | PyTorch, RAG, RLHF, Qdrant |
+| [Physics-Aware Transformer for PDE Solving](https://github.com/YXlh-64) | Hybrid Fourier Neural Operator–Transformer with physics-informed losses for autoregressive PDE forecasting, outperforming PINNs under out-of-distribution conditions | PyTorch |
 
 ---
 
