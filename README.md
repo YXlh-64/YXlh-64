@@ -5,29 +5,33 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineering+Student;Research+%7C+Systems+%7C+Low-level+AI+Engineering;Always+learning.+Always+building.+Always+curious." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineering+Student;Research+%7C+Autonomous+Applications+%7C+RL;Always+learning.+Always+building.+Always+curious." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I'm a fourth-year **AI & Data Science Engineering student** at the **National Higher School of Artificial Intelligence ([ENSIA](https://www.ensia.edu.dz/))** — one of Algeria's most selective institutions dedicated entirely to AI. My work lives at the intersection of **deep research and hands-on engineering**: from designing novel architectures and running training pipelines, to writing low-level GPU kernels and shipping real systems.
+I'm Aya, a fourth-year AI & Data Science Engineering student at the **National Higher School of Artificial Intelligence ([ENSIA](https://www.ensia.edu.dz/))** — one of Algeria's most selective institutions dedicated entirely to AI. I enjoy exploring different areas of artificial intelligence through coursework, research projects, internships, and personal experiments.
 
-I care about building things that are not just accurate, but *principled* — systems grounded in theory, robust under pressure, and useful in practice.
+My interests span a wide range of topics across artificial intelligence, from reinforcement learning and self supervised learning to transformers, generative models, and representation learning. Exploring different areas has helped me appreciate how ideas developed in one field often inspire progress in another.
+
+What excites me most, however, is understanding **why** things work rather than simply using them. I'm particularly interested in the theoretical foundations of machine learning—studying the assumptions, mathematical principles, and design choices behind algorithms, and investigating the mechanisms that make them effective. I enjoy reading papers, experimenting with ideas, and building projects as a way to bridge theory and practice, with the hope of eventually contributing original insights of my own.
 
 ---
 
 ## 🔭 Research Interests
 
 ```
-Scientific Machine Learning  ·  Physics-Informed Neural Networks  ·  PDE Solving
-Reinforcement Learning & Control  ·  Agentic AI Systems  ·  LLM Infrastructure
-NLP for Low-Resource Languages  ·  Privacy-Preserving AI  ·  Efficient Deep Learning
-Kernel Optimization  ·  Homomorphic Encryption  ·  Computer Vision
+- Reinforcement Learning for autonomous systems
+- Self-Supervised Learning & JEPA world models
+- Scientific Machine Learning
+- Natural Language Processing for low-resource languages
+- Privacy & Security in AI
+- Graph Representation Learning
+- Remote Sensing & GeoAI
+- Agentic AI systems with memory and orchestration
 ```
-
-Current directions include **robust RL policies** for real-world control under stochastic disturbance, building an **agentic AI framework** running local LLMs on top of an OS, and applying **agentic search strategies** (à la AlphaEvolve / AdaExplore) to automate **Triton kernel optimization**.
 
 ---
 
@@ -35,13 +39,12 @@ Current directions include **robust RL policies** for real-world control under s
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,java,r,docker,linux,git,flask,flutter,html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,mysql,pytorch,tensorflow,docker,linux,git,flask,flutter,html,css,js" />
 </p>
 
 ### ML & Engineering Tooling
-```
-PyTorch · TensorFlow · Keras · Scikit-learn · OpenCV · Gym / Stable-Baselines3
-Triton · CUDA (basics) · Celery · Redis · Firebase · Jupyter · NumPy · Pandas
+```text
+PyTorch · TensorFlow · Keras · Scikit-learn · Stable-Baselines3 · Gym · NLTK · OpenCV · Pandas · NumPy · Matplotlib · Seaborn · Jupyter · Docker · Flask · Git/GitHub · Linux · Deep Learning · Reinforcement Learning · NLP · Computer Vision · Time Series Analysis · Data Mining · Optimization · GeoAI & Remote Sensing · Full-Stack Development
 ```
 
 ---
@@ -67,4 +70,4 @@ Triton · CUDA (basics) · Celery · Redis · Firebase · Jupyter · NumPy · Pa
 
 ---
 
-<p align="center"><i>"The best way to understand something deeply is to try to break it, rebuild it, and explain it to someone else."</i></p>
+<p align="center"><i>"إذا قلت قد علمت فقد جهلت"</i></p>
