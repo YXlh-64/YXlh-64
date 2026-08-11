@@ -12,11 +12,11 @@
 
 ## 🧭 About Me
 
-I'm Aya, a fourth-year AI & Data Science Engineering student at the **National Higher School of Artificial Intelligence ([ENSIA](https://www.ensia.edu.dz/))** — one of Algeria's most selective institutions dedicated entirely to AI. I enjoy exploring different areas of artificial intelligence through coursework, research projects, internships, and personal experiments.
+I'm Aya, a masters AI & Data Science Engineering student at the **National Higher School of Artificial Intelligence ([ENSIA](https://www.ensia.edu.dz/))**, one of Algeria's most selective institutions dedicated entirely to AI. I enjoy exploring different areas of artificial intelligence through coursework, research projects, internships, and personal experiments.
 
 My interests span a wide range of topics across artificial intelligence, from reinforcement learning and self supervised learning to transformers, generative models, and representation learning. Exploring different areas has helped me appreciate how ideas developed in one field often inspire progress in another.
 
-What excites me most, however, is understanding **why** things work rather than simply using them. I'm particularly interested in the theoretical foundations of machine learning—studying the assumptions, mathematical principles, and design choices behind algorithms, and investigating the mechanisms that make them effective. I enjoy reading papers, experimenting with ideas, and building projects as a way to bridge theory and practice, with the hope of eventually contributing original insights of my own.
+What excites me most, however, is understanding **why** things work rather than simply using them. I'm interested in the theoretical foundations of machine learning—studying the assumptions, mathematical principles, and design choices behind algorithms, and investigating the mechanisms that make them effective. I enjoy reading papers, experimenting with ideas, and building projects as a way to bridge theory and practice, with the hope of eventually contributing original insights of my own.
 
 ---
 
